@@ -1,3 +1,3 @@
-# jekyll-blog
+# jekyll-blog-minima-master
 
-This is a simple blog created using Jekyll and github pages. It follows the GitHub instructions and has some additions to work locally and in Windows along with some personalization.
+This is an extension to [b-a-b-i-s/jekyll-blog](https://github.com/b-a-b-i-s) which uses the master branch of minima theme at the time of writing. Specifically the commit [296bf6b872b8450529bee1e48d0ca9be200a4be5](https://github.com/jekyll/minima/tree/296bf6b872b8450529bee1e48d0ca9be200a4be5) was used. I used the master branch version because social buttons looked a lot better than minima 2.5.1. You can see the old version on [b-a-b-i-s.github.io/jekyll-blog/](https://b-a-b-i-s.github.io/jekyll-blog/) and the new on [b-a-b-i-s.github.io/jekyll-blog-minima-master/](https://b-a-b-i-s.github.io/jekyll-blog-minima-master/).
